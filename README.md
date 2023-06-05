@@ -1,4 +1,4 @@
-## Up and running with Sample Spring-Cloud based app
+## Up and running with Sample Spring-Cloud based app - test
 
 There are two ways to run the entire application:
 
